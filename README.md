@@ -1,1 +1,1 @@
-"# git_test" 
+This is Christian's first git project! 
